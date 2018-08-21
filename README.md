@@ -1,4 +1,4 @@
  # MIT-6.00.11x
+Basics of Python.
+Certified.
 Scored 95%
-Mid Term Exam- 96%
-Final Exam- 95%
